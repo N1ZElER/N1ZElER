@@ -10,16 +10,20 @@
     <p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓁𝑜𝓋𝑒 𝒶𝓃𝒹 𝒶𝒹𝑜𝓇𝑒</p>
   </div>
 
-  <h2 align="center"> 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 </h2>
   <div align="center">
-    <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
-  </div>
-  <ul>
+  <h2> 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 </h2>
+</div>
+
+<div style="display: flex; align-items: center; justify-content: center;">
+  <ul style="text-align: left;">
     <li><b>Name:</b> Alexey</li>
     <li><b>Loves:</b> anime, fortnite, shooters</li>
     <li><b>Gender:</b> he/his/Male gender</li>
     <li><b>Hobbys:</b> Android Development, Python Programming, App Design</li>
   </ul>
+  <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" width="120px" style="margin-left: 20px;">
+</div>
+
 
   <h1 align="center"> ✨ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ✨ </h1>
 
