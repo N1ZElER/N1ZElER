@@ -34,7 +34,7 @@
 <br><br><br>
 </div>
 <div align="center">
-<h1 align="center">✨ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ✨ </h1>
+<h1 align="center">✨ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ✨</h1>
 </div>
 <br>
 
