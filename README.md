@@ -17,18 +17,19 @@
       </div>
 <div>
 <div align="center">
+  <div align="center">
   <h2 style="margin-bottom: 20px;"> 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 </h2>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 40px; margin-bottom: 40px;">
-  <ul style="text-align: left; line-height: 1.8; font-size: 16px;">
+<div style="display: flex; justify-content: space-between; align-items: center; max-width: 800px; margin: 0 auto 50px; padding: 0 20px;">
+  <div style="text-align: left; line-height: 1.8; font-size: 16px; flex: 1;">
     <li><b>Name:</b> Alexey</li>
     <li><b>Loves:</b> anime, fortnite, shooters</li>
     <li><b>Gender:</b> he/his/Male gender</li>
     <li><b>Hobbys:</b> Android Development, Python Programming, App Design</li>
-  </ul>
+  </div>
   <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" 
-       width="150px" style="border-radius: 10px; min-width: 120px;">
+       width="150px" style="border-radius: 10px; margin-left: 40px;">
 </div>
 
 <div align="center">
