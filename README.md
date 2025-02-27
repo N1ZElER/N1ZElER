@@ -48,7 +48,7 @@
 <br>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" alt="Banner Image" width="600">
+  <img src="https://i.imgur.com/EavkPCl.gif" alt="Banner Image" width="600">
 </div>
 <p align="center">
   I’m skilled in <strong>Java</strong> and <strong>Python</strong>, and I love solving problems and building cool projects with these technologies.
