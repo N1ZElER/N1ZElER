@@ -18,7 +18,7 @@
 <div>
 <h2 align="center"> 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 </h2>
    <div align="center">
-<img src="https://i.imgur.com/xC59mNh.gif" align="right">
+<img src="https://i.imgur.com/EavkPCl.gif" align="right">
  </div>
   
  <li>
