@@ -16,27 +16,31 @@
     <div align="center">
       </div>
 <div>
-<h2 align="center"> 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 </h2>
-  <div align="center">
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
-  </div>
-<li>
- <b>Name:</b> Alexey</li>
-<li>
-<b>Loves:</b> anime, fortnite, shooters
-</li>
-<li>
-<b>Gender:</b> he/his/Male gender
-</li>
-<li>
-<b>Hobbys:</b> Android Development, Python Programming, App Design
-</li>
-<br><br><br>
-</div>
 <div align="center">
-<h1 align="center"> ✨ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ✨ </h1>
+  <h2 style="margin-bottom: 20px;"> 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 </h2>
 </div>
-<br>
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 40px; margin-bottom: 40px;">
+  <ul style="text-align: left; line-height: 1.8; font-size: 16px;">
+    <li><b>Name:</b> Alexey</li>
+    <li><b>Loves:</b> anime, fortnite, shooters</li>
+    <li><b>Gender:</b> he/his/Male gender</li>
+    <li><b>Hobbys:</b> Android Development, Python Programming, App Design</li>
+  </ul>
+  <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" 
+       width="150px" style="border-radius: 10px; min-width: 120px;">
+</div>
+
+<div align="center">
+  <h1 style="margin: 50px 0;"> ✨ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ✨ </h1>
+</div>
+
+<div align="center" style="margin-bottom: 50px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Badge">
+  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
+</div>
+
 
 
 
