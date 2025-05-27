@@ -24,7 +24,6 @@
  <li>
  <b>Name:</b> Alexey</li>
 <li>
-  <li>
  <b>Coding:</b> Life Coder</li>
 <li>
 <b>Loves:</b> anime, fortnite, shooters
