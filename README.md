@@ -23,7 +23,10 @@
   <li><b>Hobbies:</b> Android Development, Python Programming, App Design</li>
 
 <div >
-  <img src="https://i.imgur.com/EavkPCl.gif" width="170
+  <img src="https://i.imgur.com/EavkPCl.gif" 
+    width="200
+    height = "200"
+  />
 </div>
   
 
