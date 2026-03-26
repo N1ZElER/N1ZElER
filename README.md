@@ -26,9 +26,7 @@
   <img src="https://i.imgur.com/EavkPCl.gif" 
        width="200" 
        height="200"
-       style="margin-right: auto;"
-       right = "200px"
-    />
+       style="margin-left: auto;" />
 </div>
   
 
