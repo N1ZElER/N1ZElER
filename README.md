@@ -21,6 +21,12 @@
   <li><b>Loves:</b> anime, Fortnite, shooters</li>
   <li><b>Gender:</b> Male (he/him)</li>
   <li><b>Hobbies:</b> Android Development, Python Programming, App Design</li>
+
+<div >
+  <img src="https://i.imgur.com/EavkPCl.gif" width="170
+</div>
+  
+
 </ul>
 
 <br>
