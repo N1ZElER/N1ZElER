@@ -22,10 +22,11 @@
   <li><b>Gender:</b> Male (he/him)</li>
   <li><b>Hobbies:</b> Android Development, Python Programming, App Design</li>
 
-<div style="text-align: right;">
+<div style="display: flex;">
   <img src="https://i.imgur.com/EavkPCl.gif" 
        width="200" 
-       height="200" />
+       height="200"
+       style="margin-left: auto;" />
 </div>
   
 
