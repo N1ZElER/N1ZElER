@@ -23,14 +23,6 @@
   <li><b>Hobbies:</b> Android Development, Python Programming, App Design</li>
 </ul>
 
-<img src="https://i.imgur.com/EavkPCl.gif" 
-     width="200" 
-     height="200"
-     align="right" />
-  
-
-</ul>
-
 <br>
 
 <div align="center">
