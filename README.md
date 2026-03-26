@@ -27,7 +27,7 @@
        width="200" 
        height="200"
        style="margin-right: auto;"
-       right = "200"   
+       right = "200px"
     />
 </div>
   
